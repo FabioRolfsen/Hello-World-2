@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Hello World">bc16a52447f4f11003e29701336d4334</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Service Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:46:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b416a52447f4f11003e29701336d4338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hello World" source="x_1113200_hello_wo">13b5612447f4f11003e29701336d43bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">13b5612447f4f11003e29701336d43bc</sys_scope>
+        <sys_update_name>sys_app_module_b416a52447f4f11003e29701336d4338</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:46:33</sys_updated_on>
+        <timeline_page/>
+        <title>Service Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">13b5612447f4f11003e29701336d43bc</application>
+        <file_path/>
+        <instance_id>b0f78977db49e9584d2bac44d496197c</instance_id>
+        <instance_name>dev153924</instance_name>
+        <name>sys_app_module_b416a52447f4f11003e29701336d4338</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Hello World">bc16a52447f4f11003e29701336d4334</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Service Portal</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-18 11:46:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b416a52447f4f11003e29701336d4338</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Portal</sys_name><sys_overrides/><sys_package display_value="Hello World" source="x_1113200_hello_wo">13b5612447f4f11003e29701336d43bc</sys_package><sys_policy/><sys_scope display_value="Hello World">13b5612447f4f11003e29701336d43bc</sys_scope><sys_update_name>sys_app_module_b416a52447f4f11003e29701336d4338</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-18 11:46:33</sys_updated_on><timeline_page/><title>Service Portal</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1641504153</payload_hash>
+        <record_name>Service Portal</record_name>
+        <reverted_from/>
+        <source>13b5612447f4f11003e29701336d43be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:46:33</sys_created_on>
+        <sys_id>f016a52447f4f11003e29701336d433a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a0877f2a40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:46:33</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3c16a52438f4f11027ac1b1ac14d8539</update_guid>
+        <update_guid_history>3c16a52438f4f11027ac1b1ac14d8539:-1641504153</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Portal">b0b7e9a447f4f11003e29701336d4349</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:53:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>e25b636ffdca4801845dec9007020d71</sys_id>
+        <sys_metadata>b416a52447f4f11003e29701336d4338</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Portal</sys_name>
+        <sys_package display_value="Hello World" source="x_1113200_hello_wo">13b5612447f4f11003e29701336d43bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">13b5612447f4f11003e29701336d43bc</sys_scope>
+        <sys_scope_delete display_value="">2d430dc43fe64d6e900685958036d291</sys_scope_delete>
+        <sys_update_name>sys_app_module_b416a52447f4f11003e29701336d4338</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b416a52447f4f11003e29701336d4338">f016a52447f4f11003e29701336d433a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:53:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

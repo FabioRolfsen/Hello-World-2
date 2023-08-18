@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-08-18 12:41:59">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>admin</read_roles>
+        <roles>admin</roles>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:51:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>83e621a447f4f11003e29701336d434a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Hello World Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hello World" source="x_1113200_hello_wo">13b5612447f4f11003e29701336d43bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">13b5612447f4f11003e29701336d43bc</sys_scope>
+        <sys_update_name>sys_portal_page_83e621a447f4f11003e29701336d434a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:23:56</sys_updated_on>
+        <title>Hello World Page</title>
+        <user/>
+        <view/>
+    </sys_portal_page>
+</record_update>
